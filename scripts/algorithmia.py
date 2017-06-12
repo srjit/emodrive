@@ -19,9 +19,6 @@ input = {
 }
 
 
-
-
-
 algo = client.algo('deeplearning/EmotionRecognitionCNNMBP/0.1.2')
 
 result = algo.pipe(input).result
