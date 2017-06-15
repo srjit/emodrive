@@ -54,7 +54,7 @@ ROOT_URLCONF = 'emoDrive.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR+ '/emoDriveApp/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
