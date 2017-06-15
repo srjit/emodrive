@@ -14,7 +14,7 @@ response = algo.pipe("HAL 9000")
 
 
 input = {
-    "image": "dropbox:///images/angry.jpg",
+    "image": "dropbox:///images/neutral.jpg",
     "numResults": 7
 }
 
