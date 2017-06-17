@@ -8,11 +8,14 @@ from django.shortcuts import render
 
 import dropbox
 import uuid
+import json
 import Algorithmia
 
-from .app_settings import DROPBOX_ACCESS_TOKEN, ALGO_ACCESS_KEY, ALGO_EMOTION_API
-from .forms import UploadFileForm
+from watson_developer_cloud import SpeechToTextV1
+from os.path import join, dirname
 
+from .app_settings import *
+from .forms import UploadFileForm
 
 
 def index(request):
