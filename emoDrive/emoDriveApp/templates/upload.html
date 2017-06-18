@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %} HERE {% endblock %}
+{% block title %} Sample Scenario {% endblock %}
 
 {% block content %}
 <!-- <form  method="post" enctype="multipart/form-data" class="form-control">
@@ -13,14 +13,15 @@
   <form method="post" enctype="multipart/form-data" class="form-control">
       {% csrf_token %}
     <fieldset>
-      <legend>Legend</legend>
+      <legend>Sample Scenario</legend>
       <label>Speed</label>
       <input type="text" id="speed" name="speed" placeholder="Speed in miles/hr">
 
       <label class="control-label">Image</label>
       <input id="image" name ="image" type="file" class="file" data-show-preview="true">
 
-      <label class="control-label">Audio</label>
+      <label class="control-label"> Audio</label>
+      <!-- <span class="glyphicon glyphicon-music"></span> -->
       <input id="audio"  name ="audio" type="file" class="file" data-show-preview="true">
 
       <button type="submit" class="btn">Submit</button>

@@ -10,6 +10,7 @@ import dropbox
 import uuid
 import json
 import Algorithmia
+import decision_engine
 
 from watson_developer_cloud import SpeechToTextV1
 from os.path import join, dirname
@@ -19,6 +20,15 @@ from .forms import UploadFileForm
 
 from watson_developer_cloud import SpeechToTextV1, ToneAnalyzerV3
 from os.path import join, dirname
+
+
+def format(image_response, audio_response):
+    processed_data = {}
+    a_response = audio_response["document_tone"]["tone_categories"][0]["tones"]
+    processed_data["a"] = {emotion["tone_name"].lower() : emotion["score"] for emotion in a_response}
+    processed_data["v"] = {emotion[1].lower():emotion[0] for emotion in image_response['results']}
+    return processed_data
+
 
 # from api.watson import call_to_watson_tone_analysis_api
 def call_to_watson_tone_analysis_api(utterances):
@@ -81,11 +91,29 @@ def data_input(request):
         transcripts_str = ". ".join(transcripts)
         tone_analysis = call_to_watson_tone_analysis_api(transcripts_str)
 
+        response = format(image_analysis, tone_analysis)
+
+        response.update({"speed": float(speed), "weather": 0})
+
+
+
+        (score, (msg, aloc)) = decision_engine.decide(response)
+
+        # a = decision_engine.decide(response)
+        #
+        # if a:
+        #     score = a[0]
+        #     msg = a[1][0]
+        #     aloc = a[1][1]
+
+        #import ipdb; ipdb.set_trace()
+
         return render(request, 'results.html' , {
-            "image_analysis": image_analysis,
-            "transcripts": transcripts,
-            "tone_analysis" : tone_analysis,
+            "score": score ,
+            "msg": msg,
+            "score_breakup": response
             })
+        #return render(request, 'results.html')
         #return HttpResponseRedirect("/emoDrive/analyze/" + upload_path)
     else:
         return render(request, 'upload.html')

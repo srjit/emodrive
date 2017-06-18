@@ -56,10 +56,13 @@
       {% block content %}{% endblock %}
     </div>
 
+
+
     <script src="http://code.jquery.com/jquery.js"></script>
     <script type="text/javascript" src="{% static "bootstrap/js/bootstrap.js" %}"></script>
-
-
+    <script type="text/javascript" src="{% static "justgage/raphael-2.1.4.min.js" %}"></script>
+    <script type="text/javascript" src="{% static "justgage/justgage.js" %}"></script>
+    {% block body_script %}{% endblock %}
 
 
    <!-- <script src="../assets/js/jquery.js"></script>

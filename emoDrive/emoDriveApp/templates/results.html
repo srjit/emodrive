@@ -1,6 +1,57 @@
+{% extends "base.html" %}
 
-{{image_analysis}}
-<br><br>
-{{transcripts}}
-<br><br>
-{{tone_analysis}}
+{% block title %} Analysis {% endblock %}
+
+{% block content %}
+
+<div class="row">
+  <input id="score" type="hidden" value={{score}}/>
+  <div id="gauge" class="800x250px"></div>
+</div>
+<br><br><br>
+<div class="row alert alert-danger">
+  <h4> Weather Alerts <small>{{score_breakup.weather}}</small> </h4>
+</div>
+<div class="row">
+  <h4>Speed <small>{{score_breakup.weather}}</small> <h4>
+</div>
+<div class="row">
+  <div class="col-md-12">
+  <table class="table table-striped table-bordered form-control">
+      <tr>
+          <td> Media </td>
+          <td> Anger </td>
+          <td> Sad </td>
+          <td> Disgust </td>
+      </tr>
+
+      <tr>
+          <td> Video </td>
+          <td> {{score_breakup.v.angry}} </td>
+          <td> {{score_breakup.v.sad}} </td>
+          <td> {{score_breakup.v.disgust}} </td>
+      </tr>
+
+      <tr>
+          <td> Audio </td>
+          <td> {{score_breakup.a.anger}} </td>
+          <td> {{score_breakup.a.sadness}} </td>
+          <td> {{score_breakup.a.disgust}} </td>
+      </tr>
+  </table>
+</div>
+</div>
+
+{% endblock %}
+  {% block body_script %}
+    <script>
+      var g = new JustGage({
+        id: "gauge",
+        value: parseFloat($('#score').val()) * 100,
+        min: 0,
+        max: 100,
+        title: "Safety score"
+      });
+    </script>
+
+  {% endblock %}
