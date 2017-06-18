@@ -1,0 +1,2530 @@
+{
+  "speaker_labels": [
+    {
+      "to": 0.81, 
+      "confidence": 0.522, 
+      "speaker": 1, 
+      "from": 0.03, 
+      "final": false
+    }, 
+    {
+      "to": 1.91, 
+      "confidence": 0.38, 
+      "speaker": 1, 
+      "from": 1.01, 
+      "final": false
+    }, 
+    {
+      "to": 2.06, 
+      "confidence": 0.38, 
+      "speaker": 1, 
+      "from": 1.91, 
+      "final": false
+    }, 
+    {
+      "to": 2.37, 
+      "confidence": 0.38, 
+      "speaker": 1, 
+      "from": 2.06, 
+      "final": false
+    }, 
+    {
+      "to": 2.82, 
+      "confidence": 0.38, 
+      "speaker": 1, 
+      "from": 2.37, 
+      "final": false
+    }, 
+    {
+      "to": 3.07, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 2.87, 
+      "final": false
+    }, 
+    {
+      "to": 3.4, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 3.07, 
+      "final": false
+    }, 
+    {
+      "to": 3.46, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 3.4, 
+      "final": false
+    }, 
+    {
+      "to": 3.53, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 3.46, 
+      "final": false
+    }, 
+    {
+      "to": 3.67, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 3.53, 
+      "final": false
+    }, 
+    {
+      "to": 4.48, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 3.67, 
+      "final": false
+    }, 
+    {
+      "to": 4.72, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 4.48, 
+      "final": false
+    }, 
+    {
+      "to": 5.13, 
+      "confidence": 0.528, 
+      "speaker": 0, 
+      "from": 4.72, 
+      "final": false
+    }, 
+    {
+      "to": 5.36, 
+      "confidence": 0.293, 
+      "speaker": 1, 
+      "from": 5.16, 
+      "final": false
+    }, 
+    {
+      "to": 5.64, 
+      "confidence": 0.293, 
+      "speaker": 1, 
+      "from": 5.36, 
+      "final": false
+    }, 
+    {
+      "to": 6.09, 
+      "confidence": 0.293, 
+      "speaker": 1, 
+      "from": 5.64, 
+      "final": false
+    }, 
+    {
+      "to": 6.42, 
+      "confidence": 0.53, 
+      "speaker": 0, 
+      "from": 6.12, 
+      "final": false
+    }, 
+    {
+      "to": 6.76, 
+      "confidence": 0.553, 
+      "speaker": 1, 
+      "from": 6.45, 
+      "final": false
+    }, 
+    {
+      "to": 6.97, 
+      "confidence": 0.582, 
+      "speaker": 1, 
+      "from": 6.81, 
+      "final": false
+    }, 
+    {
+      "to": 7.2, 
+      "confidence": 0.582, 
+      "speaker": 1, 
+      "from": 6.97, 
+      "final": false
+    }, 
+    {
+      "to": 7.78, 
+      "confidence": 0.582, 
+      "speaker": 1, 
+      "from": 7.2, 
+      "final": false
+    }, 
+    {
+      "to": 8.4, 
+      "confidence": 0.585, 
+      "speaker": 1, 
+      "from": 7.81, 
+      "final": false
+    }, 
+    {
+      "to": 8.74, 
+      "confidence": 0.515, 
+      "speaker": 0, 
+      "from": 8.43, 
+      "final": false
+    }, 
+    {
+      "to": 9.05, 
+      "confidence": 0.515, 
+      "speaker": 0, 
+      "from": 8.74, 
+      "final": false
+    }, 
+    {
+      "to": 9.32, 
+      "confidence": 0.515, 
+      "speaker": 0, 
+      "from": 9.05, 
+      "final": false
+    }, 
+    {
+      "to": 9.65, 
+      "confidence": 0.515, 
+      "speaker": 0, 
+      "from": 9.32, 
+      "final": false
+    }, 
+    {
+      "to": 10.37, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 10.14, 
+      "final": false
+    }, 
+    {
+      "to": 10.96, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 10.37, 
+      "final": false
+    }, 
+    {
+      "to": 11.55, 
+      "confidence": 0.561, 
+      "speaker": 1, 
+      "from": 10.99, 
+      "final": false
+    }, 
+    {
+      "to": 11.97, 
+      "confidence": 0.637, 
+      "speaker": 0, 
+      "from": 11.85, 
+      "final": false
+    }, 
+    {
+      "to": 12.39, 
+      "confidence": 0.637, 
+      "speaker": 0, 
+      "from": 11.97, 
+      "final": false
+    }, 
+    {
+      "to": 12.93, 
+      "confidence": 0.322, 
+      "speaker": 1, 
+      "from": 12.62, 
+      "final": false
+    }, 
+    {
+      "to": 13.33, 
+      "confidence": 0.322, 
+      "speaker": 1, 
+      "from": 12.93, 
+      "final": false
+    }, 
+    {
+      "to": 13.85, 
+      "confidence": 0.388, 
+      "speaker": 1, 
+      "from": 13.53, 
+      "final": false
+    }, 
+    {
+      "to": 14.35, 
+      "confidence": 0.474, 
+      "speaker": 1, 
+      "from": 14.02, 
+      "final": false
+    }, 
+    {
+      "to": 14.94, 
+      "confidence": 0.474, 
+      "speaker": 1, 
+      "from": 14.35, 
+      "final": false
+    }, 
+    {
+      "to": 15.76, 
+      "confidence": 0.605, 
+      "speaker": 1, 
+      "from": 15.08, 
+      "final": false
+    }, 
+    {
+      "to": 16.06, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 15.85, 
+      "final": false
+    }, 
+    {
+      "to": 16.28, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 16.06, 
+      "final": false
+    }, 
+    {
+      "to": 16.4, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 16.28, 
+      "final": false
+    }, 
+    {
+      "to": 16.88, 
+      "confidence": 0.544, 
+      "speaker": 1, 
+      "from": 16.4, 
+      "final": false
+    }, 
+    {
+      "to": 17.33, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 17.14, 
+      "final": false
+    }, 
+    {
+      "to": 17.67, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 17.33, 
+      "final": false
+    }, 
+    {
+      "to": 17.85, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 17.67, 
+      "final": false
+    }, 
+    {
+      "to": 18.01, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 17.85, 
+      "final": false
+    }, 
+    {
+      "to": 18.11, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.01, 
+      "final": false
+    }, 
+    {
+      "to": 18.35, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.11, 
+      "final": false
+    }, 
+    {
+      "to": 18.5, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.35, 
+      "final": false
+    }, 
+    {
+      "to": 18.56, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.5, 
+      "final": false
+    }, 
+    {
+      "to": 18.73, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.56, 
+      "final": false
+    }, 
+    {
+      "to": 19.22, 
+      "confidence": 0.633, 
+      "speaker": 1, 
+      "from": 18.73, 
+      "final": false
+    }, 
+    {
+      "to": 19.46, 
+      "confidence": 0.32, 
+      "speaker": 1, 
+      "from": 19.25, 
+      "final": false
+    }, 
+    {
+      "to": 19.72, 
+      "confidence": 0.32, 
+      "speaker": 1, 
+      "from": 19.46, 
+      "final": false
+    }, 
+    {
+      "to": 19.97, 
+      "confidence": 0.32, 
+      "speaker": 1, 
+      "from": 19.72, 
+      "final": false
+    }, 
+    {
+      "to": 20.33, 
+      "confidence": 0.32, 
+      "speaker": 1, 
+      "from": 19.97, 
+      "final": false
+    }, 
+    {
+      "to": 20.55, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 20.39, 
+      "final": false
+    }, 
+    {
+      "to": 20.78, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 20.55, 
+      "final": false
+    }, 
+    {
+      "to": 20.99, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 20.78, 
+      "final": false
+    }, 
+    {
+      "to": 21.17, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 20.99, 
+      "final": false
+    }, 
+    {
+      "to": 21.38, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 21.17, 
+      "final": false
+    }, 
+    {
+      "to": 21.86, 
+      "confidence": 0.645, 
+      "speaker": 0, 
+      "from": 21.38, 
+      "final": false
+    }, 
+    {
+      "to": 22.12, 
+      "confidence": 0.535, 
+      "speaker": 0, 
+      "from": 21.89, 
+      "final": false
+    }, 
+    {
+      "to": 22.55, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 22.15, 
+      "final": false
+    }, 
+    {
+      "to": 22.69, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 22.55, 
+      "final": false
+    }, 
+    {
+      "to": 22.89, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 22.69, 
+      "final": false
+    }, 
+    {
+      "to": 23.09, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 22.89, 
+      "final": false
+    }, 
+    {
+      "to": 23.22, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 23.09, 
+      "final": false
+    }, 
+    {
+      "to": 23.96, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 23.22, 
+      "final": false
+    }, 
+    {
+      "to": 24.08, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 23.96, 
+      "final": false
+    }, 
+    {
+      "to": 24.21, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 24.08, 
+      "final": false
+    }, 
+    {
+      "to": 24.36, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 24.21, 
+      "final": false
+    }, 
+    {
+      "to": 24.93, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 24.36, 
+      "final": false
+    }, 
+    {
+      "to": 25.53, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 24.93, 
+      "final": false
+    }, 
+    {
+      "to": 25.74, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 25.53, 
+      "final": false
+    }, 
+    {
+      "to": 26.07, 
+      "confidence": 0.649, 
+      "speaker": 0, 
+      "from": 25.74, 
+      "final": false
+    }, 
+    {
+      "to": 26.97, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 26.66, 
+      "final": false
+    }, 
+    {
+      "to": 27.21, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 26.97, 
+      "final": false
+    }, 
+    {
+      "to": 28.04, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 27.21, 
+      "final": false
+    }, 
+    {
+      "to": 28.25, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 28.04, 
+      "final": false
+    }, 
+    {
+      "to": 28.53, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 28.25, 
+      "final": false
+    }, 
+    {
+      "to": 28.77, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 28.53, 
+      "final": false
+    }, 
+    {
+      "to": 28.89, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 28.77, 
+      "final": false
+    }, 
+    {
+      "to": 29.09, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 28.89, 
+      "final": false
+    }, 
+    {
+      "to": 29.29, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 29.09, 
+      "final": false
+    }, 
+    {
+      "to": 29.43, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 29.29, 
+      "final": false
+    }, 
+    {
+      "to": 30.22, 
+      "confidence": 0.467, 
+      "speaker": 1, 
+      "from": 29.43, 
+      "final": false
+    }, 
+    {
+      "to": 30.68, 
+      "confidence": 0.469, 
+      "speaker": 1, 
+      "from": 30.45, 
+      "final": false
+    }, 
+    {
+      "to": 31.15, 
+      "confidence": 0.469, 
+      "speaker": 1, 
+      "from": 30.68, 
+      "final": false
+    }, 
+    {
+      "to": 31.45, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 31.25, 
+      "final": false
+    }, 
+    {
+      "to": 31.64, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 31.45, 
+      "final": false
+    }, 
+    {
+      "to": 31.7, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 31.64, 
+      "final": false
+    }, 
+    {
+      "to": 31.82, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 31.7, 
+      "final": false
+    }, 
+    {
+      "to": 32.19, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 31.82, 
+      "final": false
+    }, 
+    {
+      "to": 32.62, 
+      "confidence": 0.547, 
+      "speaker": 1, 
+      "from": 32.19, 
+      "final": false
+    }, 
+    {
+      "to": 32.96, 
+      "confidence": 0.622, 
+      "speaker": 0, 
+      "from": 32.8, 
+      "final": false
+    }, 
+    {
+      "to": 33.17, 
+      "confidence": 0.622, 
+      "speaker": 0, 
+      "from": 32.96, 
+      "final": false
+    }, 
+    {
+      "to": 33.52, 
+      "confidence": 0.622, 
+      "speaker": 0, 
+      "from": 33.17, 
+      "final": false
+    }, 
+    {
+      "to": 33.76, 
+      "confidence": 0.622, 
+      "speaker": 0, 
+      "from": 33.52, 
+      "final": false
+    }, 
+    {
+      "to": 34.09, 
+      "confidence": 0.478, 
+      "speaker": 1, 
+      "from": 33.79, 
+      "final": false
+    }, 
+    {
+      "to": 34.73, 
+      "confidence": 0.453, 
+      "speaker": 1, 
+      "from": 34.46, 
+      "final": false
+    }, 
+    {
+      "to": 35.35, 
+      "confidence": 0.453, 
+      "speaker": 1, 
+      "from": 34.73, 
+      "final": false
+    }, 
+    {
+      "to": 36.32, 
+      "confidence": 0.52, 
+      "speaker": 1, 
+      "from": 35.48, 
+      "final": false
+    }, 
+    {
+      "to": 37.07, 
+      "confidence": 0.627, 
+      "speaker": 0, 
+      "from": 36.59, 
+      "final": false
+    }, 
+    {
+      "to": 37.3, 
+      "confidence": 0.627, 
+      "speaker": 0, 
+      "from": 37.07, 
+      "final": false
+    }, 
+    {
+      "to": 37.54, 
+      "confidence": 0.627, 
+      "speaker": 0, 
+      "from": 37.3, 
+      "final": false
+    }, 
+    {
+      "to": 38.02, 
+      "confidence": 0.407, 
+      "speaker": 1, 
+      "from": 37.59, 
+      "final": false
+    }, 
+    {
+      "to": 39.65, 
+      "confidence": 0.453, 
+      "speaker": 1, 
+      "from": 39.27, 
+      "final": false
+    }, 
+    {
+      "to": 40.48, 
+      "confidence": 0.409, 
+      "speaker": 1, 
+      "from": 39.76, 
+      "final": false
+    }, 
+    {
+      "to": 40.89, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 40.56, 
+      "final": false
+    }, 
+    {
+      "to": 41.01, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 40.89, 
+      "final": false
+    }, 
+    {
+      "to": 41.13, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 41.01, 
+      "final": false
+    }, 
+    {
+      "to": 41.58, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 41.13, 
+      "final": false
+    }, 
+    {
+      "to": 41.76, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 41.58, 
+      "final": false
+    }, 
+    {
+      "to": 41.97, 
+      "confidence": 0.477, 
+      "speaker": 0, 
+      "from": 41.76, 
+      "final": false
+    }, 
+    {
+      "to": 42.44, 
+      "confidence": 0.364, 
+      "speaker": 1, 
+      "from": 42.28, 
+      "final": false
+    }, 
+    {
+      "to": 42.76, 
+      "confidence": 0.364, 
+      "speaker": 1, 
+      "from": 42.44, 
+      "final": false
+    }, 
+    {
+      "to": 43.38, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.24, 
+      "final": false
+    }, 
+    {
+      "to": 43.59, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.38, 
+      "final": false
+    }, 
+    {
+      "to": 43.75, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.59, 
+      "final": false
+    }, 
+    {
+      "to": 43.81, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.75, 
+      "final": false
+    }, 
+    {
+      "to": 43.95, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.81, 
+      "final": false
+    }, 
+    {
+      "to": 44.47, 
+      "confidence": 0.381, 
+      "speaker": 1, 
+      "from": 43.95, 
+      "final": false
+    }, 
+    {
+      "to": 44.75, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 44.5, 
+      "final": false
+    }, 
+    {
+      "to": 44.93, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 44.75, 
+      "final": false
+    }, 
+    {
+      "to": 45.28, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 44.93, 
+      "final": false
+    }, 
+    {
+      "to": 45.44, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 45.28, 
+      "final": false
+    }, 
+    {
+      "to": 45.76, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 45.44, 
+      "final": false
+    }, 
+    {
+      "to": 45.9, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 45.76, 
+      "final": false
+    }, 
+    {
+      "to": 46.3, 
+      "confidence": 0.508, 
+      "speaker": 0, 
+      "from": 45.9, 
+      "final": false
+    }, 
+    {
+      "to": 48.24, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 48.06, 
+      "final": false
+    }, 
+    {
+      "to": 48.36, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 48.24, 
+      "final": false
+    }, 
+    {
+      "to": 48.65, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 48.36, 
+      "final": false
+    }, 
+    {
+      "to": 49.09, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 48.65, 
+      "final": false
+    }, 
+    {
+      "to": 49.19, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 49.09, 
+      "final": false
+    }, 
+    {
+      "to": 49.47, 
+      "confidence": 0.455, 
+      "speaker": 0, 
+      "from": 49.19, 
+      "final": false
+    }, 
+    {
+      "to": 50.11, 
+      "confidence": 0.438, 
+      "speaker": 1, 
+      "from": 49.55, 
+      "final": false
+    }, 
+    {
+      "to": 51.28, 
+      "confidence": 0.568, 
+      "speaker": 0, 
+      "from": 51.05, 
+      "final": false
+    }, 
+    {
+      "to": 51.55, 
+      "confidence": 0.568, 
+      "speaker": 0, 
+      "from": 51.28, 
+      "final": false
+    }, 
+    {
+      "to": 52.14, 
+      "confidence": 0.624, 
+      "speaker": 0, 
+      "from": 52.06, 
+      "final": false
+    }, 
+    {
+      "to": 52.34, 
+      "confidence": 0.624, 
+      "speaker": 0, 
+      "from": 52.14, 
+      "final": false
+    }, 
+    {
+      "to": 52.59, 
+      "confidence": 0.624, 
+      "speaker": 0, 
+      "from": 52.34, 
+      "final": false
+    }, 
+    {
+      "to": 54.24, 
+      "confidence": 0.648, 
+      "speaker": 0, 
+      "from": 53.97, 
+      "final": false
+    }, 
+    {
+      "to": 54.47, 
+      "confidence": 0.648, 
+      "speaker": 0, 
+      "from": 54.24, 
+      "final": false
+    }, 
+    {
+      "to": 57.77, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 57.61, 
+      "final": false
+    }, 
+    {
+      "to": 57.83, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 57.77, 
+      "final": false
+    }, 
+    {
+      "to": 58.07, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 57.83, 
+      "final": false
+    }, 
+    {
+      "to": 58.21, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 58.07, 
+      "final": false
+    }, 
+    {
+      "to": 58.42, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 58.21, 
+      "final": false
+    }, 
+    {
+      "to": 58.66, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 58.42, 
+      "final": false
+    }, 
+    {
+      "to": 58.8, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 58.66, 
+      "final": false
+    }, 
+    {
+      "to": 58.98, 
+      "confidence": 0.532, 
+      "speaker": 0, 
+      "from": 58.8, 
+      "final": true
+    }
+  ], 
+  "results": [
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "hospital", 
+              0.908
+            ], 
+            [
+              "administration", 
+              1.0
+            ], 
+            [
+              "is", 
+              0.791
+            ], 
+            [
+              "right", 
+              1.0
+            ], 
+            [
+              "here", 
+              0.994
+            ], 
+            [
+              "I'm", 
+              1.0
+            ], 
+            [
+              "going", 
+              0.989
+            ], 
+            [
+              "to", 
+              0.646
+            ], 
+            [
+              "be", 
+              0.646
+            ], 
+            [
+              "an", 
+              0.646
+            ], 
+            [
+              "emergency", 
+              1.0
+            ], 
+            [
+              "room", 
+              0.592
+            ], 
+            [
+              "Sir", 
+              0.291
+            ], 
+            [
+              "yeah", 
+              0.181
+            ], 
+            [
+              "man", 
+              0.084
+            ], 
+            [
+              "there", 
+              0.958
+            ], 
+            [
+              "where", 
+              1.0
+            ], 
+            [
+              "out", 
+              0.961
+            ], 
+            [
+              "of", 
+              0.871
+            ], 
+            [
+              "my", 
+              0.862
+            ], 
+            [
+              "car", 
+              0.863
+            ], 
+            [
+              "now", 
+              0.885
+            ], 
+            [
+              "where", 
+              0.886
+            ], 
+            [
+              "is", 
+              0.742
+            ], 
+            [
+              "let", 
+              0.397
+            ], 
+            [
+              "out", 
+              0.89
+            ], 
+            [
+              "my", 
+              1.0
+            ], 
+            [
+              "car", 
+              1.0
+            ], 
+            [
+              "now", 
+              0.996
+            ]
+          ], 
+          "confidence": 0.852, 
+          "transcript": "hospital administration is right here I'm going to be an emergency room Sir yeah man there where out of my car now where is let out my car now ", 
+          "timestamps": [
+            [
+              "hospital", 
+              0.03, 
+              0.81
+            ], 
+            [
+              "administration", 
+              1.01, 
+              1.91
+            ], 
+            [
+              "is", 
+              1.91, 
+              2.06
+            ], 
+            [
+              "right", 
+              2.06, 
+              2.37
+            ], 
+            [
+              "here", 
+              2.37, 
+              2.82
+            ], 
+            [
+              "I'm", 
+              2.87, 
+              3.07
+            ], 
+            [
+              "going", 
+              3.07, 
+              3.4
+            ], 
+            [
+              "to", 
+              3.4, 
+              3.46
+            ], 
+            [
+              "be", 
+              3.46, 
+              3.53
+            ], 
+            [
+              "an", 
+              3.53, 
+              3.67
+            ], 
+            [
+              "emergency", 
+              3.67, 
+              4.48
+            ], 
+            [
+              "room", 
+              4.48, 
+              4.72
+            ], 
+            [
+              "Sir", 
+              4.72, 
+              5.13
+            ], 
+            [
+              "yeah", 
+              5.16, 
+              5.36
+            ], 
+            [
+              "man", 
+              5.36, 
+              5.64
+            ], 
+            [
+              "there", 
+              5.64, 
+              6.09
+            ], 
+            [
+              "where", 
+              6.12, 
+              6.42
+            ], 
+            [
+              "out", 
+              6.45, 
+              6.76
+            ], 
+            [
+              "of", 
+              6.81, 
+              6.97
+            ], 
+            [
+              "my", 
+              6.97, 
+              7.2
+            ], 
+            [
+              "car", 
+              7.2, 
+              7.78
+            ], 
+            [
+              "now", 
+              7.81, 
+              8.4
+            ], 
+            [
+              "where", 
+              8.43, 
+              8.74
+            ], 
+            [
+              "is", 
+              8.74, 
+              9.05
+            ], 
+            [
+              "let", 
+              9.05, 
+              9.32
+            ], 
+            [
+              "out", 
+              9.32, 
+              9.65
+            ], 
+            [
+              "my", 
+              10.14, 
+              10.37
+            ], 
+            [
+              "car", 
+              10.37, 
+              10.96
+            ], 
+            [
+              "now", 
+              10.99, 
+              11.55
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "so", 
+              0.655
+            ], 
+            [
+              "I'm", 
+              0.914
+            ], 
+            [
+              "getting", 
+              0.393
+            ], 
+            [
+              "out", 
+              0.365
+            ], 
+            [
+              "of", 
+              1.0
+            ], 
+            [
+              "my", 
+              0.954
+            ], 
+            [
+              "car", 
+              0.179
+            ], 
+            [
+              "now", 
+              1.0
+            ], 
+            [
+              "I", 
+              1.0
+            ], 
+            [
+              "have", 
+              1.0
+            ], 
+            [
+              "the", 
+              1.0
+            ], 
+            [
+              "right", 
+              1.0
+            ], 
+            [
+              "to", 
+              1.0
+            ], 
+            [
+              "tell", 
+              1.0
+            ], 
+            [
+              "you", 
+              1.0
+            ], 
+            [
+              "when", 
+              0.785
+            ], 
+            [
+              "to", 
+              0.829
+            ], 
+            [
+              "get", 
+              1.0
+            ], 
+            [
+              "out", 
+              1.0
+            ], 
+            [
+              "of", 
+              0.995
+            ], 
+            [
+              "my", 
+              1.0
+            ], 
+            [
+              "car", 
+              0.996
+            ], 
+            [
+              "I", 
+              0.785
+            ], 
+            [
+              "tell", 
+              0.342
+            ], 
+            [
+              "right", 
+              0.975
+            ], 
+            [
+              "now", 
+              0.998
+            ], 
+            [
+              "I", 
+              1.0
+            ], 
+            [
+              "don't", 
+              1.0
+            ], 
+            [
+              "know", 
+              1.0
+            ], 
+            [
+              "where", 
+              0.503
+            ], 
+            [
+              "I", 
+              0.797
+            ], 
+            [
+              "am", 
+              0.647
+            ], 
+            [
+              "I'm", 
+              0.797
+            ], 
+            [
+              "asking", 
+              1.0
+            ], 
+            [
+              "you", 
+              1.0
+            ], 
+            [
+              "where", 
+              0.63
+            ], 
+            [
+              "is", 
+              0.732
+            ], 
+            [
+              "my", 
+              1.0
+            ], 
+            [
+              "destination", 
+              0.99
+            ], 
+            [
+              "if", 
+              0.193
+            ], 
+            [
+              "you", 
+              0.877
+            ], 
+            [
+              "will", 
+              0.97
+            ], 
+            [
+              "kindly", 
+              0.998
+            ], 
+            [
+              "plying", 
+              0.288
+            ], 
+            [
+              "out", 
+              0.225
+            ], 
+            [
+              "where", 
+              1.0
+            ], 
+            [
+              "is", 
+              0.078
+            ], 
+            [
+              "your", 
+              0.771
+            ], 
+            [
+              "destination", 
+              0.966
+            ], 
+            [
+              "it", 
+              0.436
+            ], 
+            [
+              "said", 
+              0.288
+            ], 
+            [
+              "here", 
+              0.89
+            ], 
+            [
+              "I", 
+              1.0
+            ], 
+            [
+              "was", 
+              0.99
+            ], 
+            [
+              "at", 
+              0.863
+            ], 
+            [
+              "your", 
+              1.0
+            ], 
+            [
+              "destination", 
+              0.686
+            ], 
+            [
+              "it's", 
+              1.0
+            ], 
+            [
+              "over", 
+              0.912
+            ], 
+            [
+              "get", 
+              0.406
+            ], 
+            [
+              "out", 
+              0.859
+            ], 
+            [
+              "of", 
+              0.53
+            ], 
+            [
+              "my", 
+              1.0
+            ], 
+            [
+              "car", 
+              0.787
+            ], 
+            [
+              "now", 
+              0.985
+            ], 
+            [
+              "is", 
+              0.248
+            ], 
+            [
+              "that", 
+              0.231
+            ], 
+            [
+              "seven", 
+              0.804
+            ], 
+            [
+              "getting", 
+              0.119
+            ], 
+            [
+              "out", 
+              0.973
+            ], 
+            [
+              "my", 
+              0.73
+            ], 
+            [
+              "car", 
+              0.981
+            ], 
+            [
+              "now", 
+              0.995
+            ], 
+            [
+              "service", 
+              0.69
+            ], 
+            [
+              "that", 
+              0.363
+            ], 
+            [
+              "yeah", 
+              0.428
+            ], 
+            [
+              "out", 
+              0.902
+            ]
+          ], 
+          "confidence": 0.786, 
+          "transcript": "so I'm getting out of my car now I have the right to tell you when to get out of my car I tell right now I don't know where I am I'm asking you where is my destination if you will kindly plying out where is your destination it said here I was at your destination it's over get out of my car now is that seven getting out my car now service that yeah out ", 
+          "timestamps": [
+            [
+              "so", 
+              11.85, 
+              11.97
+            ], 
+            [
+              "I'm", 
+              11.97, 
+              12.39
+            ], 
+            [
+              "getting", 
+              12.62, 
+              12.93
+            ], 
+            [
+              "out", 
+              12.93, 
+              13.33
+            ], 
+            [
+              "of", 
+              13.53, 
+              13.85
+            ], 
+            [
+              "my", 
+              14.02, 
+              14.35
+            ], 
+            [
+              "car", 
+              14.35, 
+              14.94
+            ], 
+            [
+              "now", 
+              15.08, 
+              15.76
+            ], 
+            [
+              "I", 
+              15.85, 
+              16.06
+            ], 
+            [
+              "have", 
+              16.06, 
+              16.28
+            ], 
+            [
+              "the", 
+              16.28, 
+              16.4
+            ], 
+            [
+              "right", 
+              16.4, 
+              16.88
+            ], 
+            [
+              "to", 
+              17.14, 
+              17.33
+            ], 
+            [
+              "tell", 
+              17.33, 
+              17.67
+            ], 
+            [
+              "you", 
+              17.67, 
+              17.85
+            ], 
+            [
+              "when", 
+              17.85, 
+              18.01
+            ], 
+            [
+              "to", 
+              18.01, 
+              18.11
+            ], 
+            [
+              "get", 
+              18.11, 
+              18.35
+            ], 
+            [
+              "out", 
+              18.35, 
+              18.5
+            ], 
+            [
+              "of", 
+              18.5, 
+              18.56
+            ], 
+            [
+              "my", 
+              18.56, 
+              18.73
+            ], 
+            [
+              "car", 
+              18.73, 
+              19.22
+            ], 
+            [
+              "I", 
+              19.25, 
+              19.46
+            ], 
+            [
+              "tell", 
+              19.46, 
+              19.72
+            ], 
+            [
+              "right", 
+              19.72, 
+              19.97
+            ], 
+            [
+              "now", 
+              19.97, 
+              20.33
+            ], 
+            [
+              "I", 
+              20.39, 
+              20.55
+            ], 
+            [
+              "don't", 
+              20.55, 
+              20.78
+            ], 
+            [
+              "know", 
+              20.78, 
+              20.99
+            ], 
+            [
+              "where", 
+              20.99, 
+              21.17
+            ], 
+            [
+              "I", 
+              21.17, 
+              21.38
+            ], 
+            [
+              "am", 
+              21.38, 
+              21.86
+            ], 
+            [
+              "I'm", 
+              21.89, 
+              22.12
+            ], 
+            [
+              "asking", 
+              22.15, 
+              22.55
+            ], 
+            [
+              "you", 
+              22.55, 
+              22.69
+            ], 
+            [
+              "where", 
+              22.69, 
+              22.89
+            ], 
+            [
+              "is", 
+              22.89, 
+              23.09
+            ], 
+            [
+              "my", 
+              23.09, 
+              23.22
+            ], 
+            [
+              "destination", 
+              23.22, 
+              23.96
+            ], 
+            [
+              "if", 
+              23.96, 
+              24.08
+            ], 
+            [
+              "you", 
+              24.08, 
+              24.21
+            ], 
+            [
+              "will", 
+              24.21, 
+              24.36
+            ], 
+            [
+              "kindly", 
+              24.36, 
+              24.93
+            ], 
+            [
+              "plying", 
+              24.93, 
+              25.53
+            ], 
+            [
+              "out", 
+              25.53, 
+              25.74
+            ], 
+            [
+              "where", 
+              25.74, 
+              26.07
+            ], 
+            [
+              "is", 
+              26.66, 
+              26.97
+            ], 
+            [
+              "your", 
+              26.97, 
+              27.21
+            ], 
+            [
+              "destination", 
+              27.21, 
+              28.04
+            ], 
+            [
+              "it", 
+              28.04, 
+              28.25
+            ], 
+            [
+              "said", 
+              28.25, 
+              28.53
+            ], 
+            [
+              "here", 
+              28.53, 
+              28.77
+            ], 
+            [
+              "I", 
+              28.77, 
+              28.89
+            ], 
+            [
+              "was", 
+              28.89, 
+              29.09
+            ], 
+            [
+              "at", 
+              29.09, 
+              29.29
+            ], 
+            [
+              "your", 
+              29.29, 
+              29.43
+            ], 
+            [
+              "destination", 
+              29.43, 
+              30.22
+            ], 
+            [
+              "it's", 
+              30.45, 
+              30.68
+            ], 
+            [
+              "over", 
+              30.68, 
+              31.15
+            ], 
+            [
+              "get", 
+              31.25, 
+              31.45
+            ], 
+            [
+              "out", 
+              31.45, 
+              31.64
+            ], 
+            [
+              "of", 
+              31.64, 
+              31.7
+            ], 
+            [
+              "my", 
+              31.7, 
+              31.82
+            ], 
+            [
+              "car", 
+              31.82, 
+              32.19
+            ], 
+            [
+              "now", 
+              32.19, 
+              32.62
+            ], 
+            [
+              "is", 
+              32.8, 
+              32.96
+            ], 
+            [
+              "that", 
+              32.96, 
+              33.17
+            ], 
+            [
+              "seven", 
+              33.17, 
+              33.52
+            ], 
+            [
+              "getting", 
+              33.52, 
+              33.76
+            ], 
+            [
+              "out", 
+              33.79, 
+              34.09
+            ], 
+            [
+              "my", 
+              34.46, 
+              34.73
+            ], 
+            [
+              "car", 
+              34.73, 
+              35.35
+            ], 
+            [
+              "now", 
+              35.48, 
+              36.32
+            ], 
+            [
+              "service", 
+              36.59, 
+              37.07
+            ], 
+            [
+              "that", 
+              37.07, 
+              37.3
+            ], 
+            [
+              "yeah", 
+              37.3, 
+              37.54
+            ], 
+            [
+              "out", 
+              37.59, 
+              38.02
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "are", 
+              0.735
+            ], 
+            [
+              "now", 
+              0.882
+            ], 
+            [
+              "why", 
+              1.0
+            ], 
+            [
+              "are", 
+              1.0
+            ], 
+            [
+              "you", 
+              0.959
+            ], 
+            [
+              "yelling", 
+              1.0
+            ], 
+            [
+              "at", 
+              1.0
+            ], 
+            [
+              "me", 
+              0.932
+            ], 
+            [
+              "you", 
+              0.687
+            ], 
+            [
+              "what", 
+              0.248
+            ], 
+            [
+              "you", 
+              0.541
+            ], 
+            [
+              "get", 
+              0.903
+            ], 
+            [
+              "out", 
+              1.0
+            ], 
+            [
+              "of", 
+              1.0
+            ], 
+            [
+              "my", 
+              1.0
+            ], 
+            [
+              "car", 
+              0.995
+            ], 
+            [
+              "but", 
+              1.0
+            ], 
+            [
+              "you're", 
+              0.482
+            ], 
+            [
+              "not", 
+              0.981
+            ], 
+            [
+              "to", 
+              0.294
+            ], 
+            [
+              "yell", 
+              0.139
+            ], 
+            [
+              "at", 
+              0.094
+            ], 
+            [
+              "me", 
+              0.827
+            ]
+          ], 
+          "confidence": 0.79, 
+          "transcript": "are now why are you yelling at me you what you get out of my car but you're not to yell at me ", 
+          "timestamps": [
+            [
+              "are", 
+              39.27, 
+              39.65
+            ], 
+            [
+              "now", 
+              39.76, 
+              40.48
+            ], 
+            [
+              "why", 
+              40.56, 
+              40.89
+            ], 
+            [
+              "are", 
+              40.89, 
+              41.01
+            ], 
+            [
+              "you", 
+              41.01, 
+              41.13
+            ], 
+            [
+              "yelling", 
+              41.13, 
+              41.58
+            ], 
+            [
+              "at", 
+              41.58, 
+              41.76
+            ], 
+            [
+              "me", 
+              41.76, 
+              41.97
+            ], 
+            [
+              "you", 
+              42.28, 
+              42.44
+            ], 
+            [
+              "what", 
+              42.44, 
+              42.76
+            ], 
+            [
+              "you", 
+              43.24, 
+              43.38
+            ], 
+            [
+              "get", 
+              43.38, 
+              43.59
+            ], 
+            [
+              "out", 
+              43.59, 
+              43.75
+            ], 
+            [
+              "of", 
+              43.75, 
+              43.81
+            ], 
+            [
+              "my", 
+              43.81, 
+              43.95
+            ], 
+            [
+              "car", 
+              43.95, 
+              44.47
+            ], 
+            [
+              "but", 
+              44.5, 
+              44.75
+            ], 
+            [
+              "you're", 
+              44.75, 
+              44.93
+            ], 
+            [
+              "not", 
+              44.93, 
+              45.28
+            ], 
+            [
+              "to", 
+              45.28, 
+              45.44
+            ], 
+            [
+              "yell", 
+              45.44, 
+              45.76
+            ], 
+            [
+              "at", 
+              45.76, 
+              45.9
+            ], 
+            [
+              "me", 
+              45.9, 
+              46.3
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "you", 
+              0.371
+            ], 
+            [
+              "are", 
+              0.291
+            ], 
+            [
+              "not", 
+              0.856
+            ], 
+            [
+              "not", 
+              0.608
+            ], 
+            [
+              "I", 
+              0.461
+            ], 
+            [
+              "mean", 
+              0.354
+            ], 
+            [
+              "one", 
+              0.848
+            ]
+          ], 
+          "confidence": 0.628, 
+          "transcript": "you are not not I mean one ", 
+          "timestamps": [
+            [
+              "you", 
+              48.06, 
+              48.24
+            ], 
+            [
+              "are", 
+              48.24, 
+              48.36
+            ], 
+            [
+              "not", 
+              48.36, 
+              48.65
+            ], 
+            [
+              "not", 
+              48.65, 
+              49.09
+            ], 
+            [
+              "I", 
+              49.09, 
+              49.19
+            ], 
+            [
+              "mean", 
+              49.19, 
+              49.47
+            ], 
+            [
+              "one", 
+              49.55, 
+              50.11
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "do", 
+              0.516
+            ], 
+            [
+              "it", 
+              0.892
+            ]
+          ], 
+          "confidence": 0.719, 
+          "transcript": "do it ", 
+          "timestamps": [
+            [
+              "do", 
+              51.05, 
+              51.28
+            ], 
+            [
+              "it", 
+              51.28, 
+              51.55
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "we", 
+              0.167
+            ], 
+            [
+              "do", 
+              0.394
+            ], 
+            [
+              "it", 
+              0.625
+            ]
+          ], 
+          "confidence": 0.469, 
+          "transcript": "we do it ", 
+          "timestamps": [
+            [
+              "we", 
+              52.06, 
+              52.14
+            ], 
+            [
+              "do", 
+              52.14, 
+              52.34
+            ], 
+            [
+              "it", 
+              52.34, 
+              52.59
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "do", 
+              0.46
+            ], 
+            [
+              "it", 
+              0.795
+            ]
+          ], 
+          "confidence": 0.614, 
+          "transcript": "do it ", 
+          "timestamps": [
+            [
+              "do", 
+              53.97, 
+              54.24
+            ], 
+            [
+              "it", 
+              54.24, 
+              54.47
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }, 
+    {
+      "alternatives": [
+        {
+          "word_confidence": [
+            [
+              "then", 
+              0.144
+            ], 
+            [
+              "I", 
+              0.947
+            ], 
+            [
+              "don't", 
+              0.968
+            ], 
+            [
+              "go", 
+              0.691
+            ], 
+            [
+              "where", 
+              0.926
+            ], 
+            [
+              "is", 
+              0.893
+            ], 
+            [
+              "my", 
+              0.423
+            ], 
+            [
+              "that", 
+              0.317
+            ]
+          ], 
+          "confidence": 0.682, 
+          "transcript": "then I don't go where is my that ", 
+          "timestamps": [
+            [
+              "then", 
+              57.61, 
+              57.77
+            ], 
+            [
+              "I", 
+              57.77, 
+              57.83
+            ], 
+            [
+              "don't", 
+              57.83, 
+              58.07
+            ], 
+            [
+              "go", 
+              58.07, 
+              58.21
+            ], 
+            [
+              "where", 
+              58.21, 
+              58.42
+            ], 
+            [
+              "is", 
+              58.42, 
+              58.66
+            ], 
+            [
+              "my", 
+              58.66, 
+              58.8
+            ], 
+            [
+              "that", 
+              58.8, 
+              58.98
+            ]
+          ]
+        }
+      ], 
+      "final": true
+    }
+  ], 
+  "result_index": 0, 
+  "warnings": [
+    "Unknown arguments: continuous."
+  ]
+}

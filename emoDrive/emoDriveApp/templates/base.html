@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      {% load static %}
+      <meta charset="utf-8">
+      <title>{% block title %}Bootstrap, from Twitter{% endblock %}</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <link rel="stylesheet" href="{% static "bootstrap/css/bootstrap.min.css" %}">
+      <link rel="stylesheet" href="{% static "bootstrap/css/bootstrap-responsive.min.css" %}">
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+      <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <style>
+      body {
+        padding-top:  150px;
+        padding-left:  250px;
+        padding-right: 250px;
+        padding-bottom: 150px;
+      }
+    </style>
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="../assets/ico/favicon.png">
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <div class="row">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="brand" href="#">emoDrive</a>
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#reports">Reports</a></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+      </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {% block content %}{% endblock %}
+    </div>
+
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript" src="{% static "bootstrap/js/bootstrap.js" %}"></script>
+
+
+
+
+   <!-- <script src="../assets/js/jquery.js"></script>
+   <script src="../assets/js/bootstrap-transition.js"></script>
+   <script src="../assets/js/bootstrap-alert.js"></script>
+   <script src="../assets/js/bootstrap-modal.js"></script>
+   <script src="../assets/js/bootstrap-dropdown.js"></script>
+   <script src="../assets/js/bootstrap-scrollspy.js"></script>
+   <script src="../assets/js/bootstrap-tab.js"></script>
+   <script src="../assets/js/bootstrap-tooltip.js"></script>
+   <script src="../assets/js/bootstrap-popover.js"></script>
+   <script src="../assets/js/bootstrap-button.js"></script>
+   <script src="../assets/js/bootstrap-collapse.js"></script>
+   <script src="../assets/js/bootstrap-carousel.js"></script>
+   <script src="../assets/js/bootstrap-typeahead.js"></script> -->
+
+</body>
+</html>
