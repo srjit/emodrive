@@ -22,7 +22,7 @@ def call_to_watson_speech_to_text(filepath):
     return results
 
 
-def call_to_watson_tone_analysis_api(utterance):
+def call_to_watson_tone_analysis_api(utterances):
     """
     Returns the tone analysis result for the passed
     text
@@ -31,5 +31,5 @@ def call_to_watson_tone_analysis_api(utterance):
         username=WATSON_TONE_SERVICE_USERNAME,
         password=WATSON_TONE_SERVICE_PASSWORD,
         version='2016-05-19')
-    result = tone_analyzer.tone(utterance)
+    result = tone_analyzer.tone(utterances)
     return result
