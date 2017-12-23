@@ -12,8 +12,8 @@ The project was developed using Django Web framework in Python.
 
 ## Results
 By feeding the image and Audio of the driver. We generate a safety score which is a measure of the combined emotions such as
-Anger, disgust and fear. It then presents a text message on the web page to display the next course of action for the driver such.
-Messagew can be, "Drive slow", "Call to 911" etc.
+Anger, disgust and fear. It then presents a text message on the web page to display the next course of action for the driver.
+Messages can be, "Drive slow", "Call to 911" etc.
 
 ## Limitations:
 1. Watson API's takes a lot of time to respond with the speech analysis.
